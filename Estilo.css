@@ -1,0 +1,63 @@
+body{
+    font-family: sans-serif;
+    background-image: url(../Imagens/pexels-photo-114979.jpeg);
+    background-size: 100%;
+    background-position: center bottom;
+ }
+
+h1{
+    color:white;
+    font-weight: lighter;
+}
+.caixa{
+    padding: 40px;
+    width: 40%;
+    margin: 150px auto;
+    text-align: center;
+}
+input{
+    padding: 15px;
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    border: 2px solid white;
+    border-radius: 30px;
+    background: transparent;
+    color: white;
+}
+::-webkit-input-placeholder { 
+    color: #fff;
+  }
+  
+
+button{
+    display: block;
+    padding: 15px;
+    width: 100%;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    text-transform: uppercase;
+    background: linear-gradient(to top left, #800080 0%, #ff1493 100%);
+    border-radius: 30px;
+}
+.links{
+    margin-top: 10px;
+    
+}
+.esqueci{
+    color: white;
+    text-decoration: none ;
+    padding: 10px;
+    width: 100%;
+    display: block;
+
+}
+.criar{
+    color: purple ;
+    text-decoration: none ;
+    padding: 10px;
+    width: 100%;
+    display: block;
+    
+}
